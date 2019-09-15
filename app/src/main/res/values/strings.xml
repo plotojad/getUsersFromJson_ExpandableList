@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UserList App#1</string>
+    <string name="getFile">Указать файл</string>
+    <string name="someText">SomeText</string>
+    <string name="ID_Text">ID: </string>
+    <string name="GUID_Text">GUID: </string>
+    <string name="Status_Text">Status: </string>
+    <string name="Balance_Text">Balance: </string>
+    <string name="Age_Text">Age: </string>
+    <string name="EyeColor_Text">Eye Color: </string>
+    <string name="Gender_Text">Gender: </string>
+    <string name="Company_Text">Company: </string>
+    <string name="Email_Text">E-mail: </string>
+    <string name="Phone_Text">Phone: </string>
+    <string name="Adress_Text">Adress: </string>
+    <string name="About_Text">About: </string>
+    <string name="Registered_Text">Registered: </string>
+    <string name="Location_Text">Location: </string>
+    <string name="Tags_Text">Tags: </string>
+    <string name="Friends_Text">Friends (hold): </string>
+    <string name="FavoriteFruit_Text">Favorite Fruit: </string>
+    <string name="todo">TODO</string>
+</resources>
